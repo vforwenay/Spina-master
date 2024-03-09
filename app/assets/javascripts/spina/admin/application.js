@@ -1,0 +1,10 @@
+//= require jquery
+//= require jquery_ujs
+//= require turbolinks
+//= require spina
+//= require ./account
+//= require ./confirm_delete
+//= require ./pages
+//= require ./spina.trix
+//= require ./spina.infinite_scroll
+//= require ./spina.scaffold
